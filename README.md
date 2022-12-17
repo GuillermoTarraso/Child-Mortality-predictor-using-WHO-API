@@ -4,6 +4,8 @@ This is a MAchine LearningModel based on XGBRegressor. The model Try to predict 
 
 For a requested country and year, the program uses the WHO API to obtaint the data of the fitted indicators and makes a prediction of under 5 mortality using the developed model. 
 
+In the file [WHO_deaths_under_five_predictor](WHO_deaths_under_five_predictor.ipynb) you can find the code to use the model
+
 Indicators: 
 
 ### Target: 
@@ -42,4 +44,4 @@ Care-seeking for sick children:
     Children aged < 5 years with pneumonia symptoms taken to a health facility (%)
 
 
-In the file xxx you can find the code to use the model
+
