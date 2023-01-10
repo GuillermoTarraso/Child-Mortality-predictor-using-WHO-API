@@ -1,6 +1,6 @@
-# Child-Mortality-predictor-using-WHO-API
+# Child-Mortality-predictor-WHO-API-using-Keras
 
-This is a MAchine LearningModel based on XGBRegressor. The model Try to predict the under five child mortality for the following year of a given country and a given year. The model takes the WHO indicator of under 5 child mortality as target and it is fitted with others  WHO indicators. 
+This is a Machine LearningModel based on Neuronal networks with Keras. The model Try to predict the under five child mortality for the following year of a given country and a given year. The model takes the WHO indicator of under 5 child mortality as target and it is fitted with others WHO indicators. 
 
 For a requested country and year, the program uses the WHO API to obtaint the data of the fitted indicators and makes a prediction of under 5 mortality using the developed model. 
 
